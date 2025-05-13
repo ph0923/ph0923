@@ -24,25 +24,32 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠 Technical Skills
 
-### 📌 Languages & Databases  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B2FE?style=flat&logo=snowflake&logoColor=white)  
+### 👨‍💻 Programming & Query Languages
+| SQL | Python | R | HTML |
+|:---:|:------:|:--:|:----:|
+| ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white) | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
 
-### 📊 BI & Visualization  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+### 📊 Business Intelligence & Visualization
+| Power BI | Tableau | Excel (VBA, Pivot) | Visio |
+|:--------:|:--------:|:------------------:|:-----:|
+| ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Visio](https://img.shields.io/badge/-Visio-3955A3?style=for-the-badge&logo=microsoft&logoColor=white) |
 
-### ☁️ Platforms & Tools  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+### ☁️ Cloud & Data Tools
+| Azure | Azure Data Factory | Snowflake | MySQL |
+|:-----:|:------------------:|:---------:|:-----:|
+| ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![ADF](https://img.shields.io/badge/-Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) | ![Snowflake](https://img.shields.io/badge/-Snowflake-29B2FE?style=for-the-badge&logo=snowflake&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
+
+### 🔧 Tools & Platforms
+| Postman | GitHub | JIRA | Figma |
+|:-------:|:------:|:----:|:-----:|
+| ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+
+### 🧠 Soft Skills & Methods
+| Agile/Scrum | SDLC | Root Cause Analysis | A/B Testing |
+|:-----------:|:----:|:-------------------:|:-----------:|
+| ✅ Agile | ✅ Scrum | ✅ RCA | ✅ A/B |
 
 ---
 
