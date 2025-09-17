@@ -1,7 +1,7 @@
 <!-- Profile README for Hemanth Pothineni -->
 
 <h1 align="center">Hi there 👋, I'm Hemanth Pothineni</h1>
-<h3 align="center">🎯 Business Intelligence Analyst | Data-Driven Thinker | Agile Enthusiast</h3>
+<h3 align="center">🎯 Data Engineer | Data-Pipeline Expert | ETL Developer | Cloud Specialist </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding">
@@ -17,17 +17,17 @@
 
 ## 🧠 About Me
 
-🌟 Experienced **Business Systems & Intelligence Analyst** blending tech and strategy to drive data-based decisions.  
-💡 Passionate about simplifying complex data into meaningful insights.  
-📊 Expert in BI tools, Data Engineering pipelines, API testing, and Agile processes.  
-🚀 Currently working at **Metamor Systems** optimizing performance in public services.
+🌟 Experienced **Data Engineer** skilled in building robust ETL pipelines using tools like Snowflake and DBT  
+💡 Expert in designing scalable data workflows and automating data integration.  
+📊 Passionate about transforming raw data into actionable insights with modern visualization tools.  
+🚀 Currently working at **CBRE Group** optimizing performance in Investment strategies and Finance management.
 
 ---
 
 ## 🛠 Technical Skills
 
 ### 👨‍💻 Programming & Query Languages
-| SQL | Python | R | HTML |
+| SQL | Python | R | HTML | Postgres |
 |:---:|:------:|:--:|:----:|
 | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white) | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
 
@@ -37,12 +37,12 @@
 | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Visio](https://img.shields.io/badge/-Visio-3955A3?style=for-the-badge&logo=microsoft&logoColor=white) |
 
 ### ☁️ Cloud & Data Tools
-| Azure | Azure Data Factory | Snowflake | MySQL |
+| Azure | DBT (Data Bulid Tool) | Snowflake | MySQL | SSMS |
 |:-----:|:------------------:|:---------:|:-----:|
 | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![ADF](https://img.shields.io/badge/-Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) | ![Snowflake](https://img.shields.io/badge/-Snowflake-29B2FE?style=for-the-badge&logo=snowflake&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
 
 ### 🔧 Tools & Platforms
-| Postman | GitHub | JIRA | Figma |
+| GIT | GitHub | JIRA | Figma | Postman |
 |:-------:|:------:|:----:|:-----:|
 | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
@@ -55,10 +55,10 @@
 
 ## 💼 Work Experience
 
-### 👨‍💼 Metamor Systems – *Business Intelligence Analyst* (2024–Present)
-- 📊 Increased data processing speed by **30%** using SQL & Azure pipelines.
-- 🚀 Led Agile ceremonies, improving sprint outcomes by **22%**.
-- 🧪 Integrated UAT and API testing, reducing bug time by **40%**.
+### 👨‍💼 Metamor Systems – *Business Consultant (Data Engineer)* (2024–Present)
+- 📈 Optimized ETL workflows, boosting data pipeline throughput by 30% with SQL and Azure.
+- 🗄️ Designed and maintained scalable data models in Snowflake for analytics teams.
+- 🔄 Automated data ingestion and transformation using DBT, improving data reliability.
 
 ### 🏥 Maternal 911 – *Business Data Analyst* (2023)
 - 📈 Improved data warehouse performance by **45%** with Snowflake + Python.
