@@ -55,17 +55,17 @@
 
 ## 💼 Work Experience
 
-### 👨‍💼 Metamor Systems – *Business Consultant (Data Engineer)* (2024–Present)
-- 📈 Optimized ETL workflows, boosting data pipeline throughput by 30% with SQL and Azure.
+### 👨‍💼 Metamor Systems – *Business Consultant (Data Engineer)* (APR.2024–AUG.2025)
+- 📈 Optimized ETL workflows, boosting data pipeline throughput by **30%** with SQL and Azure.
 - 🗄️ Designed and maintained scalable data models in Snowflake for analytics teams.
 - 🔄 Automated data ingestion and transformation using DBT, improving data reliability.
 
-### 🏥 Maternal 911 – *Business Data Analyst* (2023)
+### 🏥 Maternal 911 – *Business Data Analyst* (AUG.2023-DEC.2023)
 - 📈 Improved data warehouse performance by **45%** with Snowflake + Python.
 - 💡 Boosted feature adoption rate by **27%** through user-focused design.
 - 📊 Created Power BI dashboards to support strategic decision-making.
 
-### ✈️ Hindustan Aeronautics Ltd – *Data Analyst* (2019)
+### ✈️ Hindustan Aeronautics Ltd – *Data Analyst* (APR.2019-AUG.2019)
 - 🧠 Reduced stock discrepancies by **28%** with ERP integrations.
 - 📉 Optimized delivery cycle time using Tableau & SQL analysis.
 
