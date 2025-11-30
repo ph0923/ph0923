@@ -120,14 +120,6 @@ CI/CD Pipeline Management  |  Data Quality & Governance  |  Spark/Databricks Pro
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hp09&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
 ## 📬 Let's Connect
 
 💼 **LinkedIn**: [linkedin.com/in/hp09](https://www.linkedin.com/in/hp09/)  
