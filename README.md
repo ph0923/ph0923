@@ -123,7 +123,7 @@ CI/CD Pipeline Management  |  Data Quality & Governance  |  Spark/Databricks Pro
 ## 📬 Let's Connect
 
 💼 **LinkedIn**: [linkedin.com/in/hp09](https://www.linkedin.com/in/hp09/)  
-📧 **Email**: [hemanthpothineni.23@gmail.com](mailto:hemanthpothineni.23@gmail.com)  
+📧 **Email**: [hemanthpothineni@outlook.com](mailto:hemanthpothineni@outlook.com)  
 📱 **Phone**: +1-919-533-8762
 
 ---
