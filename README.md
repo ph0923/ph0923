@@ -128,11 +128,6 @@ End-to-end data pipeline for maternal healthcare analytics
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ph0923&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph0923&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ph0923&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
 
